@@ -1,0 +1,8 @@
+{
+    "pythonPlatform": "Linux",
+    "exclude": [
+      "**/features/remove-users-with-grace.py"
+    ],
+    "venvPath": "/Users/venek001/.local/share/virtualenvs/",
+    "venv": "smartmeter-ENE_LOfT"
+}``
